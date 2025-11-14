@@ -139,11 +139,16 @@ Additional Python libraries used:
 Example output produced by the pipeline:
 
 ```
-('KING', 243)
-('LEAR', 236)
-('of', 447)
-('a', 366)
-('to', 438)
+('SYNTHETIC', 1)
+('FICTION', 1)
+('DATASET', 1)
+('WORDS', 1)
+('Inspired', 1)
+('by', 311)
+('themes', 1)
+('from', 1)
+('Pride', 1)
+('and', 968)
 ...
 ```
 
