@@ -155,13 +155,4 @@ Example output produced by the pipeline:
 This completes the Apache Beam WordCount Lab.
 ```
 
----
 
-If you'd like, I can also generate:
-
-* a `LICENSE` file
-* GitHub badges (Python version, Beam version)
-* a Table of Contents
-* Screenshots or visual output examples
-
-Just let me know!
