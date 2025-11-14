@@ -66,7 +66,7 @@ The WordCount pipeline consists of the following steps:
    Formats each `(word, count)` pair as a Python tuple string, for example:  
 ```
 
-('KING', 243)
+('SYNTHETIC', 1)
 
 ````
 
