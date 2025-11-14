@@ -1,6 +1,5 @@
 # Apache-beam-lab
 
-# Apache Beam WordCount Lab (Python, DirectRunner)
 
 This repository contains a simple Apache Beam **WordCount** example implemented in Python using the **DirectRunner**.  
 The notebook demonstrates how to prepare input data, construct a Beam pipeline, execute it locally, and inspect the processed results.
@@ -27,7 +26,6 @@ This serves as a foundational exercise for understanding Beam pipelines before m
 
 ```
 
-.
 ├── data/
 │   └── prejudice.txt               # Input dataset for the WordCount pipeline
 │
